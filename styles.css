@@ -29,12 +29,14 @@ body {
     align-items: center;
     padding-top: 50px;
     padding-bottom: 50px;
+    color: #050E3C;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
     
 }
 
 .subheading {
     padding-bottom: 10px;
-    /*color: darkgreen;*/
+    color: darkgreen;
     text-align: center;
 }
 
@@ -52,3 +54,4 @@ img {
       height: 5rem;
     }
 }
+
